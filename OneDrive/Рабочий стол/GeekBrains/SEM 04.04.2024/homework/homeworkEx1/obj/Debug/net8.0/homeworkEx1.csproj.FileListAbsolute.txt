@@ -1,0 +1,15 @@
+C:\Users\kiril\OneDrive\Рабочий стол\GeekBrains\SEM 04.04.2024\homework\homeworkEx1\obj\Debug\net8.0\homeworkEx1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiril\OneDrive\Рабочий стол\GeekBrains\SEM 04.04.2024\homework\homeworkEx1\obj\Debug\net8.0\homeworkEx1.AssemblyInfoInputs.cache
+C:\Users\kiril\OneDrive\Рабочий стол\GeekBrains\SEM 04.04.2024\homework\homeworkEx1\obj\Debug\net8.0\homeworkEx1.AssemblyInfo.cs
+C:\Users\kiril\OneDrive\Рабочий стол\GeekBrains\SEM 04.04.2024\homework\homeworkEx1\obj\Debug\net8.0\homeworkEx1.csproj.CoreCompileInputs.cache
+C:\Users\kiril\OneDrive\Рабочий стол\GeekBrains\SEM 04.04.2024\homework\homeworkEx1\obj\Debug\net8.0\homeworkEx1.sourcelink.json
+C:\Users\kiril\OneDrive\Рабочий стол\GeekBrains\SEM 04.04.2024\homework\homeworkEx1\bin\Debug\net8.0\homeworkEx1.exe
+C:\Users\kiril\OneDrive\Рабочий стол\GeekBrains\SEM 04.04.2024\homework\homeworkEx1\bin\Debug\net8.0\homeworkEx1.deps.json
+C:\Users\kiril\OneDrive\Рабочий стол\GeekBrains\SEM 04.04.2024\homework\homeworkEx1\bin\Debug\net8.0\homeworkEx1.runtimeconfig.json
+C:\Users\kiril\OneDrive\Рабочий стол\GeekBrains\SEM 04.04.2024\homework\homeworkEx1\bin\Debug\net8.0\homeworkEx1.dll
+C:\Users\kiril\OneDrive\Рабочий стол\GeekBrains\SEM 04.04.2024\homework\homeworkEx1\bin\Debug\net8.0\homeworkEx1.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\GeekBrains\SEM 04.04.2024\homework\homeworkEx1\obj\Debug\net8.0\homeworkEx1.dll
+C:\Users\kiril\OneDrive\Рабочий стол\GeekBrains\SEM 04.04.2024\homework\homeworkEx1\obj\Debug\net8.0\refint\homeworkEx1.dll
+C:\Users\kiril\OneDrive\Рабочий стол\GeekBrains\SEM 04.04.2024\homework\homeworkEx1\obj\Debug\net8.0\homeworkEx1.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\GeekBrains\SEM 04.04.2024\homework\homeworkEx1\obj\Debug\net8.0\homeworkEx1.genruntimeconfig.cache
+C:\Users\kiril\OneDrive\Рабочий стол\GeekBrains\SEM 04.04.2024\homework\homeworkEx1\obj\Debug\net8.0\ref\homeworkEx1.dll
