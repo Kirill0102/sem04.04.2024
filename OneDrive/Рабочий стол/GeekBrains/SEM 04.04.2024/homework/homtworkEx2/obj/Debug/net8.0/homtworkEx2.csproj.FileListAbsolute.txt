@@ -1,0 +1,15 @@
+C:\Users\kiril\OneDrive\Рабочий стол\GeekBrains\SEM 04.04.2024\homework\homtworkEx2\bin\Debug\net8.0\homtworkEx2.exe
+C:\Users\kiril\OneDrive\Рабочий стол\GeekBrains\SEM 04.04.2024\homework\homtworkEx2\bin\Debug\net8.0\homtworkEx2.deps.json
+C:\Users\kiril\OneDrive\Рабочий стол\GeekBrains\SEM 04.04.2024\homework\homtworkEx2\bin\Debug\net8.0\homtworkEx2.runtimeconfig.json
+C:\Users\kiril\OneDrive\Рабочий стол\GeekBrains\SEM 04.04.2024\homework\homtworkEx2\bin\Debug\net8.0\homtworkEx2.dll
+C:\Users\kiril\OneDrive\Рабочий стол\GeekBrains\SEM 04.04.2024\homework\homtworkEx2\bin\Debug\net8.0\homtworkEx2.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\GeekBrains\SEM 04.04.2024\homework\homtworkEx2\obj\Debug\net8.0\homtworkEx2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiril\OneDrive\Рабочий стол\GeekBrains\SEM 04.04.2024\homework\homtworkEx2\obj\Debug\net8.0\homtworkEx2.AssemblyInfoInputs.cache
+C:\Users\kiril\OneDrive\Рабочий стол\GeekBrains\SEM 04.04.2024\homework\homtworkEx2\obj\Debug\net8.0\homtworkEx2.AssemblyInfo.cs
+C:\Users\kiril\OneDrive\Рабочий стол\GeekBrains\SEM 04.04.2024\homework\homtworkEx2\obj\Debug\net8.0\homtworkEx2.csproj.CoreCompileInputs.cache
+C:\Users\kiril\OneDrive\Рабочий стол\GeekBrains\SEM 04.04.2024\homework\homtworkEx2\obj\Debug\net8.0\homtworkEx2.sourcelink.json
+C:\Users\kiril\OneDrive\Рабочий стол\GeekBrains\SEM 04.04.2024\homework\homtworkEx2\obj\Debug\net8.0\homtworkEx2.dll
+C:\Users\kiril\OneDrive\Рабочий стол\GeekBrains\SEM 04.04.2024\homework\homtworkEx2\obj\Debug\net8.0\refint\homtworkEx2.dll
+C:\Users\kiril\OneDrive\Рабочий стол\GeekBrains\SEM 04.04.2024\homework\homtworkEx2\obj\Debug\net8.0\homtworkEx2.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\GeekBrains\SEM 04.04.2024\homework\homtworkEx2\obj\Debug\net8.0\homtworkEx2.genruntimeconfig.cache
+C:\Users\kiril\OneDrive\Рабочий стол\GeekBrains\SEM 04.04.2024\homework\homtworkEx2\obj\Debug\net8.0\ref\homtworkEx2.dll
